@@ -33,3 +33,8 @@ function dec(n){
   var result = n--
   return result
 }
+
+function makeInt(no){
+parseInt('no', 10)
+  return n
+}
