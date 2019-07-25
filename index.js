@@ -1,7 +1,6 @@
 function add(a,b){
   a + b;
   var result = a + b;
-  puts result
   return result
 }
 
