@@ -34,7 +34,7 @@ function dec(n){
   return result
 }
 
-function makeInt(no){
-parseInt('no', 10)
+function makeInt(n){
+parseInt('n', 10)
   return n
 }
